@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish Kumar Bhai</h1>
+<h1 align="center">Hello Tech People 👋, I'm Ashish Kumar Bhai</h1>
 <h3 align="center">A Passionate Software Quality Analyst and Bug Detector</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishkumar-webkul&label=Profile%20views&color=0e75b6&style=flat" alt="ashishkumar-webkul" /> </p>
