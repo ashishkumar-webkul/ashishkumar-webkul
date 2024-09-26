@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **Manual Testing Work Flow.**
 
-- 📫 How to reach me **ashishkumarbhai.tester454@webkul.in**
-
 - ⚡ Logoical fact **I think I have capability to handle any task with an ease.**
 
 <h3 align="left">Connect with me:</h3>
